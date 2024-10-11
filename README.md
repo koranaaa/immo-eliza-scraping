@@ -69,7 +69,8 @@ In case of any questions or help, feel free to reach out:
 
 - **Lead Developer**: [Korostelova Anastasiia]
 - **Email**: nastiashosti@gmail.com
-
+  
+P.S. I did not manage to collect all the necessary information, but I tried very hard and will continue to try to improve the project.
 ---
 
 ### ☀️ Happy Coding!
